@@ -1,0 +1,25 @@
+npx create-react-app mi-aplicacion
+npm start
+
+mkdir C:\Users\usersw\AppData\Roaming\npm
+
+
+
+
+https://es.react.dev/learn/state-a-components-memory
+
+
+
+acceso radipo para 
+\\wsl.localhost\Ubuntu-22.04\home que esto es el ubunto 
+
+
+
+//documentacion js
+https://www.w3schools.com/js/js_reserved.asp
+https://developer.mozilla.org/es/docs/Web/JavaScript
+
+
+///ejer///
+hacer un crud de usuraio editar agregar y modificar usuario
+log in y forulario
